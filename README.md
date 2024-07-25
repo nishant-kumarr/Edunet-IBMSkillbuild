@@ -6,6 +6,13 @@ One way they can do is by concealing the message into a non-secret Text, Image, 
 
 The practice of concealing messages or information within other non-secret data, such as text, image, audio, or video files, to avoid detection is known as **Steganography**. This project facilitates the same. It provides the capability to _hide text message in two different file formats_ i,e. `Text` and `Audio`.
 
+
+## Files 
+- `AudioStegano.py` : Script that perform steganography on audio files
+- `TextStegano.py` : Script that perform steganography on text files
+- `SampleAudio` and `SampleText` are sample files provided
+
+  
 ## How to use ?
 
 - Get the repo codes down to your work environment
